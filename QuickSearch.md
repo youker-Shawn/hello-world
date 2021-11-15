@@ -5,6 +5,10 @@
 - [Git 官方文档](https://git-scm.com/book/zh/v2)
 - [纯源码解析博客 (iocoder.cn)](https://www.iocoder.cn/)
 
+Github
+- [Github使用指南](https://docs.github.com/cn/github)
+- [开源指南](https://opensource.guide/zh-hans/)
+- [Git指令可视化方式学习](https://learngitbranching.js.org/?demo=&locale=zh_CN)
 
 
 Github
